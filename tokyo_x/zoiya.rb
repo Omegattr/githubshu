@@ -1,0 +1,3 @@
+ZOIYA = 100
+ZOIYA = ZOIYA * 500
+p "#{ZOIYA}匹わんちゃん"
